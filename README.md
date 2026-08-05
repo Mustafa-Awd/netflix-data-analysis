@@ -82,7 +82,6 @@ Use grouping to answer more advanced questions.
 - [ ] Which country has the most Netflix titles?
 - [ ] Which year had the most releases?
 - [ ] How many titles were added each year?
-- [ ] Which ratings are most common for Movies?
 
 ### New Pandas Methods
 
